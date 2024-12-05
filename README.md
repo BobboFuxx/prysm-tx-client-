@@ -1,2 +1,2 @@
 # prysm-tx-client-
-Prysm Networking signing client
+Prysm Network signing client
