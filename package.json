@@ -1,0 +1,14 @@
+{
+  "name": "prysm-transaction-client",
+  "version": "1.0.0",
+  "description": "Transaction client for the Prysm blockchain",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@cosmjs/proto-signing": "^0.34.0",
+    "@cosmjs/stargate": "^0.34.0",
+    "dotenv": "^16.0.3"
+  }
+}
